@@ -6,7 +6,7 @@ package principal;
 
 /**
  *
- * @author Diana esta
+ * @author Diana
  */
 import java.sql.*;
 import java.sql.Connection;
